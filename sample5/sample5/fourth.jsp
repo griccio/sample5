@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hello I'm index sample 5
-this is my fourth commit
+Hello I'm fourth
 </body>
 </html>
