@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hello I'm sample 5
+Hello I'm index sample5
 </body>
 </html>
